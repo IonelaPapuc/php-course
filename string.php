@@ -28,9 +28,9 @@ echo "15-". str_replace( 'world', 'PHP',$string) .'<br>' .PHP_EOL;
 echo "16-". str_ireplace( 'world', 'PHP',$string) .'<br>' .PHP_EOL;
 
 
-$number1 = 100;
-$number2= 123456;
-echo str_pad($number1, 8,'0',STR_PAD_LEFT) .'<br>';
+//$number1 = 100;
+//$number2= 123456;
+//echo str_pad($number1, 8,'0',STR_PAD_LEFT) .'<br>';
 
 
 
